@@ -3,7 +3,7 @@
 <!--
 **ciphx/ciphx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![my_image](https://github.com/ciphx/ciphx/blob/main/IMG_2525.jpg = 250x250)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
  - 🔭 I’m currently working on scaling backend @ [`CRED`](https://careers.cred.club/)
  - 🌱 I’m currently learning [`GO`](https://go.dev/) , [`Origami`](https://www.youtube.com/c/JoNakashimaBR) and [`Shuffle`](https://www.youtube.com/watch?v=Pbx1MVThTfg)
  - 💬 Ask me about : Life, universe and everything. But mostly, backend 😄
