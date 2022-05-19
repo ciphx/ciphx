@@ -3,7 +3,7 @@
 <!--
 **ciphx/ciphx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
  - 🔭 I’m currently working on scaling backend @ [`CRED`](https://careers.cred.club/)
  - 🌱 I’m currently learning [`GO`](https://go.dev/) , [`Origami`](https://www.youtube.com/c/JoNakashimaBR) and [`Shuffle`](https://www.youtube.com/watch?v=Pbx1MVThTfg)
  - 💬 Ask me about : Life, universe and everything. But mostly, backend 😄
